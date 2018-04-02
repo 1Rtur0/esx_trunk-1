@@ -1,5 +1,3 @@
-# esx_truck
+# esx_trunk
+Vehicle invenotory system built on top of the ESX framework
 
-Open/Close vehicle inventory.
-Put/Get items.
-+Gestion du poid
